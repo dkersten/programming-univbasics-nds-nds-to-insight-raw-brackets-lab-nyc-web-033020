@@ -9,7 +9,11 @@ def pretty_print_nds(nds)
 end
 
 # printing directors_database
+<<<<<<< HEAD
 # pretty_print_nds(directors_database)
+=======
+pretty_print_nds(directors_database)
+>>>>>>> cd7de576a4c1a456824b3e009b5007ca4060f5f7
 
 def directors_totals(nds)
   # Remember, it's always OK to pretty print what you get *in* to make sure
